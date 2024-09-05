@@ -12,7 +12,16 @@
   <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
   
 </p>
+<h2>💻 추가 스택</h2>
 
+<p>
+  <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=Keras&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-JPA-6DB33F?style=flat-square&logo=Java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-NLP-4B8BBE?style=flat-square&logo=NLP&logoColor=white"/>
+</p>
 
 
 <h2>🙇🏻‍♂️ 이력</h2>
