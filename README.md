@@ -20,10 +20,14 @@
   <img src="https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=Keras&logoColor=white"/>
   <img src="https://img.shields.io/badge/-JPA-6DB33F?style=flat-square&logo=Java&logoColor=white"/>
   <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
+</p>
+<p>
   <img src="https://img.shields.io/badge/-NLP-4B8BBE?style=flat-square&logo=NLP&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white"/>
   <img src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
+</p>
+<p>
   <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
   <img src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=Go&logoColor=white"/>
