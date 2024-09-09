@@ -1,6 +1,11 @@
+
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=juhoon&fontAlignY=50&animation=twinkling&fontSize=100&theme=transparent)
+
 <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=120&text=juhoon&animation=fadeIn&fontColor=000000&fontSize=90" />
 </div>
+
+<!-- Final Vocabulary 작성하시면 좋을 것 같아요 -->
 
 <div style="text-align: left;"> 
     <h1> 🙌 안녕하세요, 안주하지 않는 개발자 황주훈 입니다.🙌 </h1>  
