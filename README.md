@@ -4,7 +4,10 @@
 
 <div style="text-align: left;"> 
     <h1> 🙌 안녕하세요, 안주하지 않는 개발자 황주훈 입니다.🙌 </h1>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">  </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">  
+        <p>👉 Outta 부트캠프에서 NLP 강사로서 300명을 대상으로 95% 이상의 수강생 만족도를 기록했습니다. </p>
+        <p>👉 AICC 프로젝트에 참가해, 단순 Spring MVC에서 Spring WebFlux로 전환하여 응답 시간을 50% 단축했습니다. </p>
+    </div> 
 </div>
 
 <div style="text-align: left;">
