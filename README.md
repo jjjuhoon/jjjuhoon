@@ -53,14 +53,16 @@
   <img src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
   <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
   <img src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=Go&logoColor=white"/>
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=Go&logoColor=white"/>
   <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=Pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Computer Vision-4285F4?style=flat-square&logo=opencv&logoColor=white"/>
+
 
 </p>
 
