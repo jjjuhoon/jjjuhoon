@@ -3,7 +3,7 @@
 </div>
 
 <div style="text-align: left;"> 
-    <h2> 🙌 안녕하세요, 안주하지 않는 개발자 황주훈 입니다.🙌 </h2>  
+    <h1> 🙌 안녕하세요, 안주하지 않는 개발자 황주훈 입니다.🙌 </h1>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">  </div> 
 </div>
 
