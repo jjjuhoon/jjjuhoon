@@ -76,3 +76,12 @@
 <p>
   <img src="https://img.shields.io/badge/SQLD-8CA1AF?style=flat-square&logo=googleDocs&logoColor=white"/>
 </p>
+<br>
+<h2>🎸 취미</h2>
+<p>
+  - 🎶 밴드
+</p>
+<p>
+  - 🏃‍♂️ 러닝
+</p>
+</p>
