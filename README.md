@@ -32,9 +32,9 @@
 
 <p>
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white">
-  <img src="https://img.shields.io/badge/-Redis-D9281A?style=flat-square&logo=Redis&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Spring Batch-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Spring WebFlux-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Redis-D9281A?style=flat-square&logo=Redis&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
 </p>
 
