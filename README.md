@@ -1,21 +1,29 @@
-
 <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=120&text=juhoon&animation=fadeIn&fontColor=000000&fontSize=90" />
-    </div>
-    <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🙌 안녕하세요, 안주하지 않는 개발자 황주훈 입니다.🙌 </h2>  
+</div>
+
+<div style="text-align: left;"> 
+    <h2> 🙌 안녕하세요, 안주하지 않는 개발자 황주훈 입니다.🙌 </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">  </div> 
-    </div>
-    <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 개발 블로그 </h2> <br> 
-    <div style="text-align: left;"> <a href=https://jungle-plume-4da.notion.site/f0fd4caef6a0469e978489e344d47f6f> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://jungle-plume-4da.notion.site/f0fd4caef6a0469e978489e344d47f6f">
-       </div> 
-    </div>
+</div>
+
+<div style="text-align: left;">
+    <h2 style="color: #282d33;"> 🧑‍💻 개발 블로그 </h2> <br> 
     <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div style="text-align: left;"> <img src="https://github-readme-stats.vercel.app/api?username=jjjuhoon&bg_color=180,000000,&title_color=000000&text_color=000000"
-         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjjuhoon&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000"
-           /> </div> 
-    </div>
+        <a href="https://jungle-plume-4da.notion.site/f0fd4caef6a0469e978489e344d47f6f"> 
+            <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://jungle-plume-4da.notion.site/f0fd4caef6a0469e978489e344d47f6f">
+        </a>
+    </div> 
+</div>
+
+<div style="text-align: left;"> 
+    <h2 style="color: #282d33;"> 🏅 Stats </h2> 
+    <div style="text-align: left;"> 
+        <img src="https://github-readme-stats.vercel.app/api?username=jjjuhoon&bg_color=180,000000,&title_color=000000&text_color=000000" /> 
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjjuhoon&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000" /> 
+    </div> 
+</div>
+
 <h2>💻 기술 스택</h2>
 
 <p>
@@ -24,7 +32,6 @@
   <img src="https://img.shields.io/badge/-Spring Batch-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Spring WebFlux-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
-  
 </p>
 
 <p>
@@ -50,22 +57,19 @@
   <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
 </p>
 
-
-
 <h2>🙇🏻‍♂️ 이력</h2>
 <p>
   - 🏫 경희대학교 컴퓨터공학과
 </p>
-
 
 <br>
 <h2>🏆 수상</h2>
 <p>
   - 새싹 해커톤 장려상
 </p>
+
 <br>
 <h2>📝 자격증</h2>
 <p>
   <img src="https://img.shields.io/badge/SQLD-8CA1AF?style=flat-square&logo=googleDocs&logoColor=white"/>
 </p>
-
