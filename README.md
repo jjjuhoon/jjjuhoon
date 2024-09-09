@@ -7,7 +7,7 @@
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">  </div> 
     </div>
     <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 개발 블로그 </h2> <br> 
     <div style="text-align: left;"> <a href=https://jungle-plume-4da.notion.site/f0fd4caef6a0469e978489e344d47f6f> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://jungle-plume-4da.notion.site/f0fd4caef6a0469e978489e344d47f6f">
        </div> 
     </div>
