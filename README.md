@@ -7,6 +7,7 @@
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">  
         <p>👉 Outta 부트캠프에서 NLP 강사로서 300명을 대상으로 95% 이상의 수강생 만족도를 기록했습니다. </p>
         <p>👉 AICC 프로젝트에 참가해, 단순 Spring MVC에서 Spring WebFlux로 전환하여 응답 시간을 50% 단축했고, 장려상을 수상했습니다. </p>
+        <p>👉 미디어 전송 프로젝트에 참가해, WebRTC기반에서 Webtransport를 적용해 성능을 20% 상승시켰습니다. </p>
     </div> 
 </div>
 
