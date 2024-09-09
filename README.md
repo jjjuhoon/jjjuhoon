@@ -63,5 +63,9 @@
 <p>
   - 새싹 해커톤 장려상
 </p>
-
+<br>
+<h2>📝 자격증</h2>
+<p>
+  <img src="https://img.shields.io/badge/SQLD-8CA1AF?style=flat-square&logo=googleDocs&logoColor=white"/>
+</p>
 
